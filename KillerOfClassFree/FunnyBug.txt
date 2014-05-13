@@ -1,0 +1,7 @@
+There are really funny bugs that we called "Wu jie (means ssns reponse)".
+
+1.Some music can't be played or just halt the program but the one with Chinese can.
+2.When you choose the roles, you will the second general can't be changed once you click(a algorithm problem).
+3.The number of power showed in the screen forced to have only four digits.
+
+
